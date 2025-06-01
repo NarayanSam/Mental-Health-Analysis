@@ -21,13 +21,12 @@ Mind Lens uses machine learning to detect and classify depression severity from 
 
 1. Navigate to the backend folder:
    
-   `cd backend
-`   
+   `cd backend`   
 
 2. Install Python dependencies (if not already done):
    
-   `pip install -r requirements.txt
-`   
+   `pip install -r requirements.txt`
+
 3. Run the backend server:
    
    `python app.py`
